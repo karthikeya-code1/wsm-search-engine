@@ -21,7 +21,7 @@ class SearchApp:
         self.snippet_len = snippet_len
 
         index = processor.index
-        root.title("WSM Search Engine - Made by Karthikeya")
+        root.title("WSM Search Engine")
         root.geometry("760x520")
         root.minsize(480, 320)
 
