@@ -1,0 +1,2 @@
+Information Retrieval
+Information retrieval is the science of searching for information in a collection of documents. A user expresses an information need as a query, and the retrieval system returns the documents that are relevant to that query. Early retrieval systems were used in libraries to locate books and journal articles. Today, information retrieval powers web search engines, email search, and the search box inside almost every application.

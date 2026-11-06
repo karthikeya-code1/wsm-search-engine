@@ -1,0 +1,2 @@
+Data Compression
+Compression reduces the number of bits needed to store or transmit data. Lossless compression, used for text and program files, allows the original data to be reconstructed exactly. Lossy compression, used for images, audio and video, discards details that people are unlikely to notice. Search engines compress their postings lists using techniques such as gap encoding and variable byte codes, which lets a large index fit in memory and makes query processing faster.

@@ -1,0 +1,2 @@
+Machine Learning
+Machine learning is a field of computer science in which programs improve their performance by learning from data rather than following hand-written rules. Supervised learning trains a model on labelled examples, such as emails marked as spam or not spam. Unsupervised learning finds structure, such as clusters, in unlabelled data. Modern search engines use machine learning to rank documents, correct spelling and understand the meaning of queries.

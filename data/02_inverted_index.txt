@@ -1,0 +1,2 @@
+The Inverted Index
+An inverted index is the central data structure of a search engine. For every term in the vocabulary it stores a postings list: the sorted list of document identifiers in which the term appears. Building the index involves collecting documents, tokenizing the text, normalizing the tokens, and sorting the term-document pairs. Because postings lists are sorted, a query such as computer AND network can be answered by merging two lists in linear time.

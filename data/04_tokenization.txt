@@ -1,0 +1,2 @@
+Tokenization and Normalization
+Tokenization is the task of chopping a character sequence into pieces called tokens, usually words. Decisions must be made about apostrophes, hyphens and numbers: should don't become one token or two, and should state-of-the-art be split? After tokenization, normalization maps tokens to terms. Case folding converts every letter to lowercase so that Computer, COMPUTER and computer are treated as the same term. Stemming and lemmatization go further and reduce words such as computing and computed to a common root.

@@ -1,0 +1,2 @@
+Web Search Engines
+A web search engine has three main parts: a crawler that downloads web pages, an indexer that builds the inverted index, and a query processor that answers user queries. Billions of pages are crawled and re-crawled every day. Because so many pages match a typical query, ranking is essential: the engine uses hundreds of signals, including links between pages, to decide which results appear first. Spam pages that try to manipulate ranking are a constant problem for web search.

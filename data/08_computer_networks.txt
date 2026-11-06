@@ -1,0 +1,2 @@
+Computer Networks
+A computer network connects devices so they can exchange data. Local area networks link computers within a building, while wide area networks span cities and countries. The Internet is a network of networks that uses the TCP/IP protocol suite. Data is broken into packets, routed independently across the network, and reassembled at the destination. Wireless networking, from Wi-Fi to mobile networks, has made connectivity almost universal.

@@ -1,0 +1,2 @@
+A Short History of the Computer
+The first electronic computers were built in the 1940s and filled entire rooms. They used thousands of vacuum tubes and consumed enormous amounts of power. The invention of the transistor in 1947 and the integrated circuit in 1958 made computers smaller, faster and cheaper. By the 1980s the personal computer had arrived in homes and offices, and today a smartphone in a pocket is more powerful than the room-sized machines of the past.

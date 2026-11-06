@@ -1,0 +1,2 @@
+Wildcard Queries
+A wildcard query contains a special symbol, usually the asterisk, that stands for any sequence of characters. The query comp* matches computer, compiler, compression and company. Trailing wildcards can be answered with a search tree over the vocabulary, but leading wildcards such as *tion need a different approach. Two classic techniques are the permuterm index, which stores every rotation of each term, and the k-gram index, which maps every sequence of k characters to the terms that contain it.

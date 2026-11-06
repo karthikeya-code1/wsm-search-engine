@@ -1,0 +1,2 @@
+The Boolean Retrieval Model
+In the Boolean retrieval model a query is a logical expression of terms joined by the operators AND, OR and NOT. A document either satisfies the expression or it does not, so the model does not rank its results. Professional searchers such as lawyers and librarians have long preferred Boolean queries because they give precise control over what is retrieved. The main weakness of the model is that it can return far too many or far too few documents.
