@@ -2,6 +2,19 @@
 
 A Boolean search engine with wildcard queries and a Tkinter GUI. It uses only the Python standard library (Python 3.10+).
 
+![Search window showing a wildcard query](project_screenshots/04_wildcard.png)
+
+## Screenshots
+
+| | |
+|:---:|:---:|
+| ![AND query](project_screenshots/01_boolean_and.png) | ![NOT query](project_screenshots/02_and_not.png) |
+| **AND:** `computer AND network` | **NOT:** `carbon AND NOT climate` |
+| ![Grouping with parentheses](project_screenshots/03_parentheses.png) | ![Trailing wildcard](project_screenshots/04_wildcard.png) |
+| **Grouping:** `(cricket OR football) AND world` | **Trailing wildcard:** `comp* AND history` |
+| ![Leading wildcard](project_screenshots/05_wildcard_leading.png) | ![Error message](project_screenshots/06_error.png) |
+| **Leading wildcard:** `*tion AND search` | **Error message:** `computer AND` |
+
 ## Run
 
 ```
